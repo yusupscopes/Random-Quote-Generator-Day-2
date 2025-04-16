@@ -1,4 +1,4 @@
-# Random Quote Generator
+# Random Quote Generator (Day 2)
 
 A simple Python program that fetches random quotes from the [Quotable API](https://api.quotable.io/random) and allows users to copy them to the clipboard.
 
